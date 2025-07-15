@@ -59,3 +59,6 @@ Conclusion:
 This task gave hands-on experience in applying machine learning to a real-world problem: spam detection. It involved everything from loading data and cleaning it, to building a model and evaluating it. With slight modifications, this same pipeline can be used for many other classification tasks like sentiment analysis, product categorization, etc.
 
 #output
+<img width="805" height="597" alt="Image" src="https://github.com/user-attachments/assets/10d9331a-1de8-4f55-ae71-56dce47465ea" />
+
+[predictions.csv](https://github.com/user-attachments/files/21239646/predictions.csv)
